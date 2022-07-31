@@ -6,6 +6,7 @@ Tech stacks used for my personal projects:
 - ReactJS
 - NextJS
 - React Native
+- Firebase
 - Laravel
 - Express.js
 - MongoDB
