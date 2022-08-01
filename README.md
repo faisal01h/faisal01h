@@ -18,4 +18,9 @@ Tech stacks used for my personal projects:
 🌏 [https://www.faisalhnf.com](https://www.faisalhnf.com)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
