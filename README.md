@@ -17,10 +17,10 @@ Tech stacks used for my past and current projects:
 - SQLite
 
 Webservers I've managed for my projects:
-- OS: Ubuntu Linux
-  - Nginx
-  - Apache
-  - PM2 daemon for Node.js, proxy-passed to Nginx/Apache
+- Ubuntu Linux
+    - Nginx
+    - Apache
+    - PM2 daemon for Node.js, proxy-passed to Nginx/Apache
 
 ### Contact me  
 🌏 [https://www.faisalhnf.com](https://www.faisalhnf.com)
