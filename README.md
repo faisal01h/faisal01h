@@ -17,7 +17,7 @@ Tech stacks used for my past and current projects:
 - SQLite
 
 Webservers I've managed for my projects:
-- Ubuntu Linux
+- Ubuntu Linux (on DigitalOcean, Vultr, and AWS)
     - Nginx
     - Apache
     - PM2 daemon for Node.js, proxy-passed to Nginx/Apache
