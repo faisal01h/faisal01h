@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a computer science student based in Sidoarjo, Indonesia. Feel free to take a peek at my code repositories!
+I'm a Software Developer based in Sidoarjo, Indonesia. Feel free to take a peek at my code repositories!
 
 Tech stacks used for my past and current projects:
 - ReactJS
@@ -15,6 +15,9 @@ Tech stacks used for my past and current projects:
 - PostgreSQL
 - MySQL
 - SQLite
+- Redis
+- Docker
+- MinIO S3 Object Storage
 
 Webservers I've managed for my projects:
 - Ubuntu Linux (on DigitalOcean, Vultr, and AWS)
@@ -24,11 +27,3 @@ Webservers I've managed for my projects:
 
 ### Contact me  
 🌏 [https://www.faisalhnf.com](https://www.faisalhnf.com)
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
